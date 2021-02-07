@@ -20,7 +20,7 @@ CsvToHtmlTable = {
         var $containerElement = $("#" + el);
         $containerElement.empty().append($table);
 
-        $.when($.get(csv_path)).then(
+        return $.when($.get(csv_path)).then(
             function (data) {
                 var csvData = $.csv.toArrays(data, csv_options);
                 var $tableHead = $("<thead></thead>");
@@ -50,11 +50,13 @@ CsvToHtmlTable = {
                 }
                 $table.append($tableBody);
 
-                $table.DataTable(datatables_options);
+                var dt = $table.DataTable(datatables_options);
 
                 if (allow_download) {
                     $containerElement.append("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
                 }
+
+                return dt;
             });
     }
 };
