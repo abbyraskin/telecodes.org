@@ -19,6 +19,11 @@ div.splash {
   padding: 40px 0;
 }
 
+div.splash a {
+  color: #fff;
+  text-decoration: underline;
+}
+
 p.lead {
   font-weight: 700;
 }
