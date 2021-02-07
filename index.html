@@ -9,6 +9,7 @@
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/dataTables.bootstrap.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -18,20 +19,31 @@
   </head>
 
   <body>
+    <header class="navbar navbar-static-top" tabindex="-1">
+      <div class="container">
+        <div class="navbar-header"><h1><a href="/" class="navbar-brand">Telehealth code finder 🕵️</a></h1></div>
+      </div>
+    </header>
+    <div class="splash">
+      <div class="container">
+        <p class="lead">Do you bill Medicare for telehealth services?</p>
+        <p>This is a tool to help you find CPT and HCPCS codes you might need while billing for telehealth during the public health emergency (PHE). You can also <a href="data/Telehealth_Services_List.csv">download the spreadsheet</a>.</p>
+      </div>
+      <div class="container">
+        <div class="form-group search-box has-feedback center-block">
+          <span class="glyphicon glyphicon-search form-control-feedback"></span>
+          <input id="search" type="text" class="form-control input-lg" placeholder="Search by code, service, or keyword">
+        </div>
+      </div>
+    </div>
     <div class="container-fluid">
-
-      <h2>Telehealth code finder 🕵️</h2>
-      <h3>Do you bill Medicare for telehealth services?</h3>
-      <p>This is a tool to help you find CPT and HCPCS codes you might need while billing for telehealth during the public health emergency (PHE). You can search by code, service, or other keyword to get started.</p>
-
       <div id='table-container'></div>
-
     </div><!-- /.container -->
 
     <footer class='footer'>
       <div class='container-fluid'>
         <hr />
-        <p class='pull-right'><a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table</a> by <a href='http://derekeder.com'>Derek Eder</a></p>
+        <p class='pull-right'>Adapted from <a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table</a> by <a href='http://derekeder.com'>Derek Eder</a></p>
       </div>
     </footer>
 
@@ -55,12 +67,15 @@
       }
 
       CsvToHtmlTable.init({
-        csv_path: 'data/Telehealth Services for the PHE for the COVID-19 Pandemic Effective March 1 2020.csv',
+        csv_path: 'data/Telehealth_Services_List.csv',
         element: 'table-container',
-        allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": true},
+        datatables_options: {"paging": true, "pageLength": 25},
         custom_formatting: [[4, format_link]]
+      }).then(function(dt) {
+        $("#search").on("input", function(e) {
+          dt.search(e.target.value).draw();
+        })
       });
     </script>
   </body>
