@@ -1,5 +1,8 @@
 /* Custom styles */
 
+
+@import url("http://fonts.googleapis.com/css?family=Lato:400,300,700");
+
 .navbar {
   margin: 0;
 }
@@ -9,14 +12,15 @@
 }
 
 .navbar-header a {
-  color: #217C80;
+  color: #4f79bd;
 }
 
 div.splash {
-  background: #25979D;
+  background: #4f79bd;
   color: #fff;
   margin-bottom: 20px;
   padding: 40px 0;
+  font-family: 'Lato', sans-serif !important;
 }
 
 div.splash a {
@@ -30,13 +34,15 @@ p.lead {
 
 @media (min-width: 768px) {
   .lead {
-      font-size: 28px;
+      font-size: 36px;
+      font-family: 'Lato', sans-serif !important;
   }
 }
 
 .search-box {
   margin-top: 40px;
   max-width: 600px;
+  font-family: 'Lato', sans-serif !important;
 }
 
 .search-box .form-control-feedback {
@@ -51,6 +57,7 @@ p.lead {
   padding-right: 12px;
   padding-left: 38px;
 }
+
 
 #table-container-table_filter {
   display: none;
