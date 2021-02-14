@@ -59,19 +59,12 @@
 
 
     <script type="text/javascript">
-      function format_link(link){
-        if (link)
-          return "<a href='" + link + "' target='_blank'>" + link + "</a>";
-        else
-          return "";
-      }
 
       CsvToHtmlTable.init({
         csv_path: 'data/Telehealth_Services_List.csv',
         element: 'table-container',
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {"paging": true, "pageLength": 50},
-        custom_formatting: [[4, format_link]]
       }).then(function(dt) {
         $("#search").on("input", function(e) {
           dt.search(e.target.value).draw();
