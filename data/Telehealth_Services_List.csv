@@ -1,4 +1,4 @@
-Code,Category,Short Descriptor,How long is it covered?,Covid-19 waivers & provider guidance
+Code,Category,Short Descriptor,How long is it covered?,Covid-19 waivers 
 77427,Radiation treatment managemnet,Radiation tx management x5,Extended waiver — through year PHE ends ,
 90785,Crisis intervention and interactive complexity,Psytx complex interactive,Permanent telehealth service,☎️ Phone allowed 
 90791,Psychiatric diagnostic evaluation,Psych diagnostic evaluation,Permanent telehealth service,☎️ Phone allowed
@@ -115,133 +115,131 @@ Code,Category,Short Descriptor,How long is it covered?,Covid-19 waivers & provid
 97802,Medical nutrition therapy,Medical nutrition indiv in,Permanent telehealth service,☎️ Phone allowed
 97803,Medical nutrition therapy,Med nutrition indiv subseq,Permanent telehealth service,☎️ Phone allowed
 97804,Medical nutrition therapy,Medical nutrition group,Permanent telehealth service,☎️ Phone allowed
-99201,,Office/outpatient visit new,Permanent telehealth service,Deleted in 2021 due to overlap with 99202
-99202,,Office/outpatient visit new,Permanent telehealth service,
-99203,,Office/outpatient visit new,Permanent telehealth service,
-99204,,Office/outpatient visit new,Permanent telehealth service,
-99205,,Office/outpatient visit new,Permanent telehealth service,
-99211,,Office/outpatient visit est,Permanent telehealth service,
-99212,,Office/outpatient visit est,Permanent telehealth service,
-99213,,Office/outpatient visit est,Permanent telehealth service,
-99214,,Office/outpatient visit est,Permanent telehealth service,
-99215,,Office/outpatient visit est,Permanent telehealth service,
-99217,,Observation care discharge,Extended waiver — through year PHE ends ,
-99218,,Initial observation care,Temporary — until Covid-19 PHE ends,
-99219,,Initial observation care,Temporary — until Covid-19 PHE ends,
-99220,,Initial observation care,Temporary — until Covid-19 PHE ends,
-99221,,Initial hospital care,Temporary — until Covid-19 PHE ends,
-99222,,Initial hospital care,Temporary — until Covid-19 PHE ends,
-99223,,Initial hospital care,Temporary — until Covid-19 PHE ends,
-99224,,Subsequent observation care,Extended waiver — through year PHE ends ,
-99225,,Subsequent observation care,Extended waiver — through year PHE ends ,
-99226,,Subsequent observation care,Extended waiver — through year PHE ends ,
-99231,,Subsequent hospital care,Permanent telehealth service,
-99232,,Subsequent hospital care,Permanent telehealth service,
-99233,,Subsequent hospital care,Permanent telehealth service,
-99234,,Observ/hosp same date,Temporary — until Covid-19 PHE ends,
-99235,,Observ/hosp same date,Temporary — until Covid-19 PHE ends,
-99236,,Observ/hosp same date,Temporary — until Covid-19 PHE ends,
-99238,,Hospital discharge day,Extended waiver — through year PHE ends ,
-99239,,Hospital discharge day,Extended waiver — through year PHE ends ,
-99281,,Emergency dept visit,Extended waiver — through year PHE ends ,
-99282,,Emergency dept visit,Extended waiver — through year PHE ends ,
-99283,,Emergency dept visit,Extended waiver — through year PHE ends ,
-99284,,Emergency dept visit,Extended waiver — through year PHE ends ,
-99285,,Emergency dept visit,Extended waiver — through year PHE ends ,
-99291,,Critical care first hour,Extended waiver — through year PHE ends ,
-99292,,Critical care addl 30 min,Extended waiver — through year PHE ends ,
-99304,,Nursing facility care init,Temporary — until Covid-19 PHE ends,
-99305,,Nursing facility care init,Temporary — until Covid-19 PHE ends,
-99306,,Nursing facility care init,Temporary — until Covid-19 PHE ends,
-99307,,Nursing fac care subseq,Permanent telehealth service,
-99308,,Nursing fac care subseq,Permanent telehealth service,
-99309,,Nursing fac care subseq,Permanent telehealth service,
-99310,,Nursing fac care subseq,Permanent telehealth service,
-99315,,Nursing fac discharge day,Extended waiver — through year PHE ends ,
-99316,,Nursing fac discharge day,Extended waiver — through year PHE ends ,
-99324,,Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
-99325,,Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
-99326,,Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
-99327,,Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
-99328,,Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
-99334,,Domicil/r-home visit est pat,Permanent telehealth service,
-99335,,Domicil/r-home visit est pat,Permanent telehealth service,
-99336,,Domicil/r-home visit est pat,Extended waiver — through year PHE ends ,
-99337,,Domicil/r-home visit est pat,Extended waiver — through year PHE ends ,
-99341,,Home visit new patient,Temporary — until Covid-19 PHE ends,
-99342,,Home visit new patient,Temporary — until Covid-19 PHE ends,
-99343,,Home visit new patient,Temporary — until Covid-19 PHE ends,
-99344,,Home visit new patient,Temporary — until Covid-19 PHE ends,
-99345,,Home visit new patient,Temporary — until Covid-19 PHE ends,
-99347,,Home visit est patient,Permanent telehealth service,
-99348,,Home visit est patient,Permanent telehealth service,
-99349,,Home visit est patient,Extended waiver — through year PHE ends ,
-99350,,Home visit est patient,Extended waiver — through year PHE ends ,
-99354,,Prolong e&m/psyctx serv o/p,Permanent telehealth service,☎️ Phone allowed
-99355,,Prolong e&m/psyctx serv o/p,Permanent telehealth service,☎️ Phone allowed
-99356,,Prolonged service inpatient,Permanent telehealth service,☎️ Phone allowed
-99357,,Prolonged service inpatient,Permanent telehealth service,☎️ Phone allowed
-99406,,Behav chng smoking 3-10 min,Permanent telehealth service,☎️ Phone allowed
-99407,,Behav chng smoking > 10 min,Permanent telehealth service,☎️ Phone allowed
-99441,Evaluation and management,Phone e/m phys/qhp 5-10 min,Temporary — until Covid-19 PHE ends,☎️ Phone allowed
-99442,Evaluation and management,Phone e/m phys/qhp 11-20 min,Temporary — until Covid-19 PHE ends,☎️ Phone allowed
-99443,,Phone e/m phys/qhp 21-30 min,Temporary — until Covid-19 PHE ends,☎️ Phone allowed
-99468,Neonatal,Neonate crit care initial,Temporary — until Covid-19 PHE ends,
-99469,Neonatal,Neonate crit care subsq,Extended waiver — through year PHE ends ,
-99471,Pediatric,Ped critical care initial,Temporary — until Covid-19 PHE ends,
-99472,Pediatric,Ped critical care subsq,Extended waiver — through year PHE ends ,
-99473,,Self-meas bp pt educaj/train,Temporary — until Covid-19 PHE ends,
-99475,,Ped crit care age 2-5 init,Temporary — until Covid-19 PHE ends,
-99476,,Ped crit care age 2-5 subsq,Extended waiver — through year PHE ends ,
-99477,,Init day hosp neonate care,Temporary — until Covid-19 PHE ends,
-99478,,Ic lbw inf < 1500 gm subsq,Extended waiver — through year PHE ends ,
-99479,,Ic lbw inf 1500-2500 g subsq,Extended waiver — through year PHE ends ,
-99480,,Ic inf pbw 2501-5000 g subsq,Extended waiver — through year PHE ends ,
-99483,,Assmt & care pln pt cog imp,Permanent telehealth service,
-99495,,Trans care mgmt 14 day disch,Permanent telehealth service,
-99496,,Trans care mgmt 7 day disch,Permanent telehealth service,
-99497,,Advncd care plan 30 min,Permanent telehealth service,☎️ Phone allowed
-99498,,Advncd care plan addl 30 min,Permanent telehealth service,☎️ Phone allowed
-0373T,,Adapt bhv tx ea 15 min,Temporary — until Covid-19 PHE ends,
-0362T,,Bhv id suprt assmt ea 15 min,Temporary — until Covid-19 PHE ends,
-G0108,,Diab manage trn per indiv,Permanent telehealth service,☎️ Phone allowed
-G0109,,Diab manage trn ind/group,Permanent telehealth service,☎️ Phone allowed
-G0270,,Mnt subs tx for change dx,Permanent telehealth service,☎️ Phone allowed
-G0296,,Visit to determ ldct elig,Permanent telehealth service,☎️ Phone allowed
-G0396,,Alcohol/subs interv 15-30mn,Permanent telehealth service,☎️ Phone allowed
-G0397,,Alcohol/subs interv >30 min,Permanent telehealth service,☎️ Phone allowed
-G0406,,Inpt/tele follow up 15,Permanent telehealth service,☎️ Phone allowed
-G0407,,Inpt/tele follow up 25,Permanent telehealth service,☎️ Phone allowed
-G0408,,Inpt/tele follow up 35,Permanent telehealth service,☎️ Phone allowed
-G0420,,Ed svc ckd ind per session,Permanent telehealth service,☎️ Phone allowed
-G0421,,Ed svc ckd grp per session,Permanent telehealth service,☎️ Phone allowed
-G0422,,Intens cardiac rehab w/exerc,Temporary — until Covid-19 PHE ends,
-G0423,,Intens cardiac rehab no exer,Temporary — until Covid-19 PHE ends,
-G0424,,Pulmonary rehab w exer,Temporary — until Covid-19 PHE ends,
-G0425,,Inpt/ed teleconsult30,Permanent telehealth service,☎️ Phone allowed
-G0426,,Inpt/ed teleconsult50,Permanent telehealth service,☎️ Phone allowed
-G0427,,Inpt/ed teleconsult70,Permanent telehealth service,☎️ Phone allowed
-G0438,,"Ppps, initial visit",Permanent telehealth service,☎️ Phone allowed
-G0439,,"Ppps, subseq visit",Permanent telehealth service,☎️ Phone allowed
-G0442,,Annual alcohol screen 15 min,Permanent telehealth service,☎️ Phone allowed
-G0443,,Brief alcohol misuse counsel,Permanent telehealth service,☎️ Phone allowed
-G0444,,Depression screen annual,Permanent telehealth service,☎️ Phone allowed
-G0445,,High inten beh couns std 30m,Permanent telehealth service,☎️ Phone allowed
-G0446,,Intens behave ther cardio dx,Permanent telehealth service,☎️ Phone allowed
-G0447,,Behavior counsel obesity 15m,Permanent telehealth service,☎️ Phone allowed
-G0459,,Telehealth inpt pharm mgmt,Permanent telehealth service,☎️ Phone allowed
-G0506,,Comp asses care plan ccm svc,Permanent telehealth service,☎️ Phone allowed
-G0508,,Crit care telehea consult 60,Permanent telehealth service,
-G0509,,Crit care telehea consult 50,Permanent telehealth service,
-G0513,,"Prolong prev svcs, first 30m",Permanent telehealth service,☎️ Phone allowed
-G0514,,"Prolong prev svcs, addl 30m",Permanent telehealth service,☎️ Phone allowed
-G2086,,Off base opioid tx 70min,Permanent telehealth service,☎️ Phone allowed
-G2087,,"Off base opioid tx, 60 m",Permanent telehealth service,☎️ Phone allowed
-G2088,,"Off base opioid tx, add30",Permanent telehealth service,☎️ Phone allowed
-G9685,,Acute nursing facility care,Temporary — until Covid-19 PHE ends,
-G2211,,Complex E/M visit add on,Permanent telehealth service,☎️ Phone allowed
-G2212,,Prolong outpt/office vis,Permanent telehealth service,☎️ Phone allowed
+99201,New Patient Office or Other Outpatient Services,Office/outpatient visit new,Permanent telehealth service,Deleted in 2021 due to overlap with 99202
+99202,New Patient Office or Other Outpatient Services,Office/outpatient visit new,Permanent telehealth service,
+99203,New Patient Office or Other Outpatient Services,Office/outpatient visit new,Permanent telehealth service,
+99204,New Patient Office or Other Outpatient Services,Office/outpatient visit new,Permanent telehealth service,
+99205,New Patient Office or Other Outpatient Services,Office/outpatient visit new,Permanent telehealth service,
+99211,Established Patient Office or Other Outpatient Services,Office/outpatient visit est,Permanent telehealth service,
+99212,Established Patient Office or Other Outpatient Services,Office/outpatient visit est,Permanent telehealth service,
+99213,Established Patient Office or Other Outpatient Services,Office/outpatient visit est,Permanent telehealth service,
+99214,Established Patient Office or Other Outpatient Services,Office/outpatient visit est,Permanent telehealth service,
+99215,Established Patient Office or Other Outpatient Services,Office/outpatient visit est,Permanent telehealth service,
+99217,Hospital Observation Care Discharge Services,Observation care discharge,Extended waiver — through year PHE ends ,
+99218,New or Established Patient Initial Hospital Observation Care Services,Initial observation care,Temporary — until Covid-19 PHE ends,
+99219,New or Established Patient Initial Hospital Observation Care Services,Initial observation care,Temporary — until Covid-19 PHE ends,
+99220,New or Established Patient Initial Hospital Observation Care Services,Initial observation care,Temporary — until Covid-19 PHE ends,
+99221,New or Established Patient Initial Hospital Observation Care Services,Initial hospital care,Temporary — until Covid-19 PHE ends,
+99222,New or Established Patient Initial Hospital Observation Care Services,Initial hospital care,Temporary — until Covid-19 PHE ends,
+99223,New or Established Patient Initial Hospital Observation Care Services,Initial hospital care,Temporary — until Covid-19 PHE ends,
+99224,Subsequent Hospital Observation Care Services,Subsequent observation care,Extended waiver — through year PHE ends ,
+99225,Subsequent Hospital Observation Care Services,Subsequent observation care,Extended waiver — through year PHE ends ,
+99226,Subsequent Hospital Observation Care Services,Subsequent observation care,Extended waiver — through year PHE ends ,
+99231,Subsequent Hospital Observation Care Services,Subsequent hospital care,Permanent telehealth service,
+99232,Subsequent Hospital Observation Care Services,Subsequent hospital care,Permanent telehealth service,
+99233,Subsequent Hospital Observation Care Services,Subsequent hospital care,Permanent telehealth service,
+99234,Observation or Inpatient Care Services,Observ/hosp same date,Temporary — until Covid-19 PHE ends,
+99235,Observation or Inpatient Care Services,Observ/hosp same date,Temporary — until Covid-19 PHE ends,
+99236,Observation or Inpatient Care Services,Observ/hosp same date,Temporary — until Covid-19 PHE ends,
+99238,Hospital discharge day management,Hospital discharge day,Extended waiver — through year PHE ends ,
+99239,Hospital discharge day management,Hospital discharge day,Extended waiver — through year PHE ends ,
+99281,Emergency Department Services,Emergency dept visit,Extended waiver — through year PHE ends ,
+99282,Emergency Department Services,Emergency dept visit,Extended waiver — through year PHE ends ,
+99283,Emergency Department Services,Emergency dept visit,Extended waiver — through year PHE ends ,
+99284,Emergency Department Services,Emergency dept visit,Extended waiver — through year PHE ends ,
+99285,Emergency Department Services,Emergency dept visit,Extended waiver — through year PHE ends ,
+99291,Critical care,Critical care first hour,Extended waiver — through year PHE ends ,
+99292,Critical care,Critical care addl 30 min,Extended waiver — through year PHE ends ,
+99304,Comprehensive Nursing Facility Assessments,Nursing facility care init,Temporary — until Covid-19 PHE ends,
+99305,Comprehensive Nursing Facility Assessments,Nursing facility care init,Temporary — until Covid-19 PHE ends,
+99306,Comprehensive Nursing Facility Assessments,Nursing facility care init,Temporary — until Covid-19 PHE ends,
+99307,Subsequent Nursing Facility Care,Nursing fac care subseq,Permanent telehealth service,
+99308,Subsequent Nursing Facility Care,Nursing fac care subseq,Permanent telehealth service,
+99309,Subsequent Nursing Facility Care,Nursing fac care subseq,Permanent telehealth service,
+99310,Subsequent Nursing Facility Care,Nursing fac care subseq,Permanent telehealth service,
+99315,Nursing facility discharge day management,Nursing fac discharge day,Extended waiver — through year PHE ends ,
+99316,Nursing facility discharge day management,Nursing fac discharge day,Extended waiver — through year PHE ends ,
+99324,"New Patient Domiciliary, Rest Home, or Custodial Care Services",Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
+99325,"New Patient Domiciliary, Rest Home, or Custodial Care Services",Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
+99326,"New Patient Domiciliary, Rest Home, or Custodial Care Services",Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
+99327,"New Patient Domiciliary, Rest Home, or Custodial Care Services",Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
+99328,New Patient ,Domicil/r-home visit new pat,Temporary — until Covid-19 PHE ends,
+99334,"Established Patient Domiciliary, Rest Home, or Custodial Care Services",Domicil/r-home visit est pat,Permanent telehealth service,
+99335,"Established Patient Domiciliary, Rest Home, or Custodial Care Services",Domicil/r-home visit est pat,Permanent telehealth service,
+99336,"Established Patient Domiciliary, Rest Home, or Custodial Care Services",Domicil/r-home visit est pat,Extended waiver — through year PHE ends ,
+99337,"Established Patient Domiciliary, Rest Home, or Custodial Care Services",Domicil/r-home visit est pat,Extended waiver — through year PHE ends ,
+99341,New Patient Home Services,Home visit new patient,Temporary — until Covid-19 PHE ends,
+99342,New Patient Home Services,Home visit new patient,Temporary — until Covid-19 PHE ends,
+99343,New Patient Home Services,Home visit new patient,Temporary — until Covid-19 PHE ends,
+99344,New Patient Home Services,Home visit new patient,Temporary — until Covid-19 PHE ends,
+99345,New Patient Home Services,Home visit new patient,Temporary — until Covid-19 PHE ends,
+99347,Established Patient Home Services,Home visit est patient,Permanent telehealth service,
+99348,Established Patient Home Services,Home visit est patient,Permanent telehealth service,
+99349,Established Patient Home Services,Home visit est patient,Extended waiver — through year PHE ends ,
+99350,Established Patient Home Services,Home visit est patient,Extended waiver — through year PHE ends ,
+99354,Prolonged service(s) in the outpatient setting ,Prolong e&m/psyctx serv o/p,Permanent telehealth service,☎️ Phone allowed
+99355,Prolonged service(s) in the outpatient setting ,Prolong e&m/psyctx serv o/p,Permanent telehealth service,☎️ Phone allowed
+99356,Prolonged service(s) in the outpatient setting ,Prolonged service inpatient,Permanent telehealth service,☎️ Phone allowed
+99357,Prolonged service(s) in the outpatient setting ,Prolonged service inpatient,Permanent telehealth service,☎️ Phone allowed
+99406,Smoking and tobacco use cessation counseling visit,Behav chng smoking 3-10 min,Permanent telehealth service,☎️ Phone allowed
+99407,Smoking and tobacco use cessation counseling visit,Behav chng smoking > 10 min,Permanent telehealth service,☎️ Phone allowed
+99441,Telephone evaluation and management service ,Phone e/m phys/qhp 5-10 min,Temporary — until Covid-19 PHE ends,☎️ Phone allowed
+99442,Telephone evaluation and management service ,Phone e/m phys/qhp 11-20 min,Temporary — until Covid-19 PHE ends,☎️ Phone allowed
+99443,Telephone evaluation and management service ,Phone e/m phys/qhp 21-30 min,Temporary — until Covid-19 PHE ends,☎️ Phone allowed
+99468,Inpatient Neonatal and Pediatric Critical Care,Neonate crit care initial,Temporary — until Covid-19 PHE ends,
+99469,Inpatient Neonatal and Pediatric Critical Care,Neonate crit care subsq,Extended waiver — through year PHE ends ,
+99471,Inpatient Neonatal and Pediatric Critical Care,Ped critical care initial,Temporary — until Covid-19 PHE ends,
+99472,Inpatient Neonatal and Pediatric Critical Care,Ped critical care subsq,Extended waiver — through year PHE ends ,
+99473,Digitally Stored Data Services/ Remote Physiologic Monitoring,Self-meas bp pt educaj/train,Temporary — until Covid-19 PHE ends,
+99475,Inpatient Neonatal and Pediatric Critical Care,Ped crit care age 2-5 init,Temporary — until Covid-19 PHE ends,
+99476,Inpatient Neonatal and Pediatric Critical Care,Ped crit care age 2-5 subsq,Extended waiver — through year PHE ends ,
+99477,Inpatient Neonatal and Pediatric Critical Care,Init day hosp neonate care,Temporary — until Covid-19 PHE ends,
+99478,Initial and Continuing Intensive Care Services,Ic lbw inf < 1500 gm subsq,Extended waiver — through year PHE ends ,
+99479,Initial and Continuing Intensive Care Services,Ic lbw inf 1500-2500 g subsq,Extended waiver — through year PHE ends ,
+99480,Initial and Continuing Intensive Care Services,Ic inf pbw 2501-5000 g subsq,Extended waiver — through year PHE ends ,
+99483,Cognitive Assessment and Care Plan Services,Assmt & care pln pt cog imp,Permanent telehealth service,
+99495,Transitional Care Management Services,Trans care mgmt 14 day disch,Permanent telehealth service,
+99496,Transitional Care Management Services,Trans care mgmt 7 day disch,Permanent telehealth service,
+99497,Advanced Care Planning,Advncd care plan 30 min,Permanent telehealth service,☎️ Phone allowed
+99498,Advanced Care Planning,Advncd care plan addl 30 min,Permanent telehealth service,☎️ Phone allowed
+0373T,Adaptive Behavior Assessments and Treatment,Adapt bhv tx ea 15 min,Temporary — until Covid-19 PHE ends,
+0362T,Adaptive Behavior Assessments and Treatment,Bhv id suprt assmt ea 15 min,Temporary — until Covid-19 PHE ends,
+G0108,Diabetes outpatient self-management training services,Diab manage trn per indiv,Permanent telehealth service,☎️ Phone allowed
+G0109,Diabetes outpatient self-management training services,Diab manage trn ind/group,Permanent telehealth service,☎️ Phone allowed
+G0270,Medical nutrition therapy,Mnt subs tx for change dx,Permanent telehealth service,☎️ Phone allowed
+G0296,Counseling visit to discuss need for lung cancer screening,Visit to determ ldct elig,Permanent telehealth service,☎️ Phone allowed
+G0396,Alcohol and/or substance (other than tobacco) misuse structured assessment,Alcohol/subs interv 15-30mn,Permanent telehealth service,☎️ Phone allowed
+G0397,Alcohol and/or substance (other than tobacco) misuse structured assessment,Alcohol/subs interv >30 min,Permanent telehealth service,☎️ Phone allowed
+G0406,"Follow-up inpatient consultation, limited",Inpt/tele follow up 15,Permanent telehealth service,☎️ Phone allowed
+G0407,"Follow-up inpatient consultation, intermediate",Inpt/tele follow up 25,Permanent telehealth service,☎️ Phone allowed
+G0408,"Follow-up inpatient consultation, complex",Inpt/tele follow up 35,Permanent telehealth service,☎️ Phone allowed
+G0420,Face-to-face educational services related to the care of chronic kidney disease,Ed svc ckd ind per session,Permanent telehealth service,☎️ Phone allowed
+G0421,Face-to-face educational services related to the care of chronic kidney disease,Ed svc ckd grp per session,Permanent telehealth service,☎️ Phone allowed
+G0422,Intensive cardiac rehabilitation,Intens cardiac rehab w/exerc,Temporary — until Covid-19 PHE ends,
+G0423,Intensive cardiac rehabilitation,Intens cardiac rehab no exer,Temporary — until Covid-19 PHE ends,
+G0424,"Pulmonary rehabilitation, including exercise ",Pulmonary rehab w exer,Temporary — until Covid-19 PHE ends,
+G0425,"Telehealth consultation, emergency department or initial inpatient, typically 30 minutes communicating with the patient via telehealth",Inpt/ed teleconsult30,Permanent telehealth service,☎️ Phone allowed
+G0426,"Telehealth consultation, emergency department or initial inpatient, typically 50 minutes communicating with the patient via telehealth",Inpt/ed teleconsult50,Permanent telehealth service,☎️ Phone allowed
+G0427,"Telehealth consultation, emergency department or initial inpatient, typically 70 minutes communicating with the patient via telehealth",Inpt/ed teleconsult70,Permanent telehealth service,☎️ Phone allowed
+G0438,"Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit","Ppps, initial visit",Permanent telehealth service,☎️ Phone allowed
+G0439,"Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit","Ppps, subseq visit",Permanent telehealth service,☎️ Phone allowed
+G0442,Annual alcohol misuse screening,Annual alcohol screen 15 min,Permanent telehealth service,☎️ Phone allowed
+G0443,"Brief face-to-face behavioral counseling for alcohol misuse, 15 minutes",Brief alcohol misuse counsel,Permanent telehealth service,☎️ Phone allowed
+G0444,"Annual depression screening, 15 minutes",Depression screen annual,Permanent telehealth service,☎️ Phone allowed
+G0445,"High intensity behavioral counseling to prevent sexually transmitted infection; face-to-face, individual, includes: education, skills training and guidance on how to change sexual behavior; performed semi-annually, 30 minutes",High inten beh couns std 30m,Permanent telehealth service,☎️ Phone allowed
+G0446,"Annual, face-to-face intensive behavioral therapy for cardiovascular disease, individual, 15 minutes",Intens behave ther cardio dx,Permanent telehealth service,☎️ Phone allowed
+G0447,"Face-to-face behavioral counseling for obesity, 15 minutes",Behavior counsel obesity 15m,Permanent telehealth service,☎️ Phone allowed
+G0459,"Face-to-face behavioral counseling for obesity, 15 minutes",Telehealth inpt pharm mgmt,Permanent telehealth service,☎️ Phone allowed
+G0506,Comprehensive assessment of and care planning for patients requiring chronic care management services,Comp asses care plan ccm svc,Permanent telehealth service,☎️ Phone allowed
+G0508,"Telehealth consultation, critical care, initial , physicians typically spend 60 minutes communicating with the patient and providers via telehealth",Crit care telehea consult 60,Permanent telehealth service,
+G0509,"Telehealth consultation, critical care, subsequent, physicians typically spend 50 minutes communicating with the patient and providers via telehealth",Crit care telehea consult 50,Permanent telehealth service,
+G0513,"Prolonged preventive service(s) (beyond the typical service time of the primary procedure), in the office or other outpatient setting requiring direct patient contact beyond the usual service; first 30 minutes ","Prolong prev svcs, first 30m",Permanent telehealth service,☎️ Phone allowed
+G0514,"Prolonged preventive service(s) (beyond the typical service time of the primary procedure), in the office or other outpatient setting requiring direct patient contact beyond the usual service; each additional 30 minutes ","Prolong prev svcs, addl 30m",Permanent telehealth service,☎️ Phone allowed
+G2086,"Office-based treatment for opioid use disorder, including development of the treatment plan, care coordination, individual therapy and group therapy and counseling; at least 70 minutes in the first calendar month",Off base opioid tx 70min,Permanent telehealth service,☎️ Phone allowed
+G2087,"Office-based treatment for opioid use disorder, including care coordination, individual therapy and group therapy and counseling; at least 60 minutes in a subsequent calendar month","Off base opioid tx, 60 m",Permanent telehealth service,☎️ Phone allowed
+G2088,"Office-based treatment for opioid use disorder, including care coordination, individual therapy and group therapy and counseling; each additional 30 minutes beyond the first 120 minutes ","Off base opioid tx, add30",Permanent telehealth service,☎️ Phone allowed
+G9685,Physician service or other qualified health care professional for the evaluation and management of a beneficiary's acute change in condition in a nursing facility. this service is for a demonstration project,Acute nursing facility care,Temporary — until Covid-19 PHE ends,
+G2211,"Visit complexity inherent to evaluation and management associated with medical care services that serve as the continuing focal point for all needed health care services and/or with medical care services that are part of ongoing care related to a patient's single, serious condition or a complex condition. ",Complex E/M visit add on,Permanent telehealth service,☎️ Phone allowed
+G2212,"Prolonged office or other outpatient evaluation and management service(s) beyond the maximum required time of the primary procedure which has been selected using total time on the date of the primary service; each additional 15 minutes by the physician or qualified healthcare professional, with or without direct patient contact ",Prolong outpt/office vis,Permanent telehealth service,
 Q3014,Originating site facility fee,,,
-G0463,Hospital outpatient clinic visit,,,
-G2025,FQHC and RHC distant site telehealth (PHE),,,RHCs and FQHCs can bill as distant site telehealth providers during PHE
-G0071,Brief check-in,,,"RHCs and FQHCs can bill equivalent CPT services G2010 and G2012, or 99421, 99422, 99423 during PHE"
+G2025,Telehealth distant site service furnished by a rural health clinic (RHC) or federally qualified health center (FQHC) only,,,(Phone waivers apply to equivalent telehealth codes)

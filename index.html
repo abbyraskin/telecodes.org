@@ -64,7 +64,7 @@
         csv_path: 'data/Telehealth_Services_List.csv',
         element: 'table-container',
         csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": true, "pageLength": 50},
+        datatables_options: {"paging": false, "pageLength": 100},
       }).then(function(dt) {
         $("#search").on("input", function(e) {
           dt.search(e.target.value).draw();
