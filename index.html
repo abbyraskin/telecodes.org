@@ -16,19 +16,20 @@
       <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-  </head>
 
-  <body>
+
+    <body>
     <header class="navbar navbar-static-top" tabindex="-1">
       <div class="container">
         <div class="navbar-header"><h1><a href="/" class="navbar-brand">Telehealth code finder 🕵️</a></h1></div>
       </div>
-    </header>
+      </header>
     <div class="splash">
       <div class="container">
-        <p class="lead">Do you bill Medicare for telehealth services?</p>
-        <p>This is a tool to help you find CPT and HCPCS codes you might need while billing for telehealth during the public health emergency (PHE). You can also <a href="data/Telehealth_Services_List.csv">download the spreadsheet</a>.</p>
+        <p class="lead">Telehealth codes for billers and coders</p>
+          <div> Do you bill Medicare for telehealth services? This is a tool to help you search for codes and navigate billing policies as they evolve during the Covid-19 public health emergency. </div>
       </div>
+
       <div class="container">
         <div class="form-group search-box has-feedback center-block">
           <span class="glyphicon glyphicon-search form-control-feedback"></span>
@@ -36,14 +37,18 @@
         </div>
       </div>
     </div>
-    <div class="container-fluid">
+<div class="container-fluid">
+<p>Last updated: February 16, 2021, using Medicare data last revised on January 14, 2021 </p>
+<p>See:<a href="https://www.cms.gov/Medicare/Medicare-General-Information/Telehealth/Telehealth-Codes"> Medicare source data → </a></p>
+<p><a href="data/Telehealth_Services_List.csv">Download the table (CSV)</a></p>
       <div id='table-container'></div>
+
     </div><!-- /.container -->
 
     <footer class='footer'>
       <div class='container-fluid'>
         <hr />
-        <p class='pull-right'>Adapted from <a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table</a> by <a href='http://derekeder.com'>Derek Eder</a></p>
+        <p class='pull-right'>Adapted from <a href='https://github.com/derekeder/csv-to-html-table'>CSV to HTML Table</a>
       </div>
     </footer>
 
