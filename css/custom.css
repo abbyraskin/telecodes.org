@@ -1,23 +1,22 @@
 /* Custom styles */
 
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mallanna&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Montserrat&display=swap');
 @import url('http://fonts.googleapis.com/css?family=Noto+Sans');
 
 .navbar {
   margin: 0;
-  font-family: 'Noto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 .navbar-header h1 {
   margin: 0;
-  font-family: 'Noto', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 .navbar-header a {
-  color: #4f79bd;
-  font-family: 'Noto', sans-serif;
+  color: #112E51;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 div.splash {
@@ -26,22 +25,24 @@ div.splash {
   margin-bottom: 20px;
   padding: 40px 0;
   font-size: 22px;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 div.splash a {
   color: #fff;
   text-decoration: underline;
-  font-family: 'Noto';
+  font-family: 'Noto Sans', sans-serif;
   font-size: 22px;
 }
 
 p.lead {
   font-weight: 700;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 @media (min-width: 768px) {
   .lead {
-      font-size: 38px;
+      font-size: 40px;
   }
 }
 
