@@ -9,12 +9,12 @@
 }
 
 .navbar-header a {
-  color: #112E51;
+  color: #00695C;
   font-family: 'Noto Sans', sans-serif;
 }
 
 div.splash {
-  background: #112E51;
+  background: #00695C;
   color: #fff;
   margin-bottom: 20px;
   padding: 40px 0;
@@ -77,9 +77,15 @@ body {
   font-family: 'Mallanna', sans-serif;
 }
 
+
+body a {
+ text-decoration: underline;
+   color: #00695C;
+     }
+
 tbody tr td:nth-child(1) {
   font-size: 44px !important;
-  color: #112E51;
+  color: #00695C;
 }
 
 tbody tr td:nth-child(n) {
