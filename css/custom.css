@@ -86,3 +86,11 @@ tbody tr td:nth-child(1) {
 tbody tr td:nth-child(2) {
   max-width: 60px !important;
 }
+
+tbody tr td:nth-child(2) {
+  max-width: 30px !important;
+}
+
+tbody tr td:nth-child(2) {
+  max-width: 30px !important;
+}
