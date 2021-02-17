@@ -48,40 +48,42 @@ apraxia, dysarthria)",Extended: until end of 2021 or later,📞
 92523,"Speech-language treatment; evaluation of speech sound production (eg, articulation, phonological process, apraxia,
 dysarthria); with evaluation of language comprehension and expression (eg, receptive
 and expressive language)",Extended: until end of 2021 or later,📞
-92524,Otorhinolaryngologic services,Extended: until end of 2021 or later,📞
+92524,Speech-language services; behavioral and qualitative analysis of voice and resonance,Extended: until end of 2021 or later,📞
 92601,"Cochlear implant, patient younger than 7 years of age",Temporary: until end of PHE,
 92602,"Reprogram cochlear implant, patient younger than 7 years of age",Temporary: until end of PHE,
-92603,"Program cochlear implant, age 7 years or older",Temporary: until end of PHE,
-92604,"Reprogram cochlear implant, 7 years old or older",Temporary: until end of PHE,
+92603,"Program cochlear implant, 7+ years old",Temporary: until end of PHE,
+92604,"Reprogram cochlear implant, 7+ years old",Temporary: until end of PHE,
 93797,Cardiac rehab,Temporary: until end of PHE,
 93798,Cardiac rehab/monitor,Temporary: until end of PHE,
 93750,Non-invasive physiologic studies and procedures,Temporary: until end of PHE,
-94002,Ventilator management,Temporary: until end of PHE,
-94003,Ventilator management,Temporary: until end of PHE,
-94004,Ventilator management,Temporary: until end of PHE,
-94005,Ventilator management,Temporary: until end of PHE,
+94002,"Ventilator management; hospital inpatient/observation, initial day",Temporary: until end of PHE,
+94003,"Ventilator management; hospital inpatient/observation, each subsequent day",Temporary: until end of PHE,
+94004,"Ventilator management; nursing facility, per day",Temporary: until end of PHE,
+94005,"Ventilator management; care plan oversight of a patient (patient not present) in
+home, domiciliary or rest home (eg, assisted living)",Temporary: until end of PHE,
 94664,Pulmonary diagnostic,Temporary: until end of PHE,
 95970,Neurostimulators analysis-programming,Temporary: until end of PHE,
 95971,Neurostimulators analysis-programming,Temporary: until end of PHE,
 95972,Neurostimulators analysis-programming,Temporary: until end of PHE,
 95983,Neurostimulators analysis-programming,Temporary: until end of PHE,
 95984,Neurostimulators analysis-programming,Temporary: until end of PHE,
-96112,Developmental and behavioral screening,Temporary: until end of PHE,
-96113,Developmental and behavioral screening,Temporary: until end of PHE,
-96116,Neurobehavioral status examination,Permanent,📞
-96121,Neurobehavioral status examination,Permanent,📞
+96112,"Developmental and behavioral screening, first hour",Temporary: until end of PHE,
+96113,"Developmental and behavioral screening, each additional 30 minutes (list
+separately)",Temporary: until end of PHE,
+96116,"Neurobehavioral status examination, first hour",Permanent,📞
+96121,"Neurobehavioral status examination, each additional hour (list separately)",Permanent,📞
 96127,Developmental/behavioral screening and testing,Temporary: until end of PHE,📞
-96130,Testing evaluation services,Extended: until end of 2021 or later,📞
-96131,Testing evaluation services,Extended: until end of 2021 or later,📞
-96132,Testing evaluation services,Extended: until end of 2021 or later,📞
-96133,Testing evaluation services,Extended: until end of 2021 or later,📞
-96136,Testing evaluation services,Extended: until end of 2021 or later,📞
-96137,Testing evaluation services,Extended: until end of 2021 or later,📞
-96138,Testing evaluation services,Extended: until end of 2021 or later,📞
-96139,Testing evaluation services,Extended: until end of 2021 or later,📞
+96130,"Psychological testing evaluation, first hour",Extended: until end of 2021 or later,📞
+96131,"Psychological testing evaluation, each additional hour (list separately)",Extended: until end of 2021 or later,📞
+96132,"Neuropsychological testing evaluation, first hour",Extended: until end of 2021 or later,📞
+96133,"Neuropsychological testing evaluation, each additional hour (list separately)",Extended: until end of 2021 or later,📞
+96136,"Psychological or neuropsychological test by physician, first 30 minutes",Extended: until end of 2021 or later,📞
+96137,"Psychological or neuropsychological test by physician, each additional 30 minutes (list separately)",Extended: until end of 2021 or later,📞
+96138,"Psychological or neuropsychological test by tech, first 30 minutes",Extended: until end of 2021 or later,📞
+96139,"Psychological or neuropsychological test by tech, each additional 30 minutes (list separately)",Extended: until end of 2021 or later,📞
 96156,Health behavior assessment and intervention,Permanent,📞
 96158,"Health behavior assessment and intervention, first 30 minutes",Temporary: until end of PHE,📞
-96159,"Health behavior assessment and intervention, each additional",Permanent,📞
+96159,"Health behavior assessment and intervention, each additional 15 minutes",Permanent,📞
 96160,Health behavior assessment and intervention,Permanent,📞
 96161,Health behavior assessment and intervention,Permanent,📞
 96164,"Health behavior assessment and intervention, first 30 minutes",Permanent,📞
@@ -119,16 +121,16 @@ and expressive language)",Extended: until end of 2021 or later,📞
 97802,"Medical nutrition therapy, initial assessment, individual",Permanent,📞
 97803,"Medical nutrition therapy, subsequent assessment, individual",Permanent,📞
 97804,Medical nutrition therapy in a group setting,Permanent,📞
-99201,New patient office or other outpatient services,Permanent,
-99202,New patient office or other outpatient services,Permanent,
-99203,New patient office or other outpatient services,Permanent,
-99204,New patient office or other outpatient services,Permanent,
-99205,New patient office or other outpatient services,Permanent,
-99211,Established patient office or other outpatient services,Permanent,
-99212,Established patient office or other outpatient services,Permanent,
-99213,Established patient office or other outpatient services,Permanent,
-99214,Established patient office or other outpatient services,Permanent,
-99215,Established patient office or other outpatient services,Permanent,
+99201,New patient office or other outpatient e/m services,Permanent,
+99202,New patient office or other outpatient e/m services,Permanent,
+99203,New patient office or other outpatient e/m services,Permanent,
+99204,New patient office or other outpatient e/m services,Permanent,
+99205,New patient office or other outpatient e/m services,Permanent,
+99211,Established patient office or other outpatient e/m services,Permanent,
+99212,"Established patient office or other outpatient services, 10-19 minites",Permanent,
+99213,"Established patient office or other outpatient services, 20-29 minutes",Permanent,
+99214,"Established patient office or other outpatient services, 30-39 minutes",Permanent,
+99215,"Established patient office or other outpatient services, 40-54 minutes",Permanent,
 99217,Observation care discharge,Extended: until end of 2021 or later,
 99218,Initial hospital observation care,Temporary: until end of PHE,
 99219,Initial hospital observation care,Temporary: until end of PHE,
