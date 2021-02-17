@@ -88,8 +88,6 @@ tbody tr td:nth-child(1) {
 }
 
 tbody tr td:nth-child(2) {
-  font-size: 44px !important;
-  color: #00695C;
   max-width: 100px !important;
 }
 
