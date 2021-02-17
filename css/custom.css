@@ -65,7 +65,6 @@ p.lead {
 body {
   font-size: 18px;
   font-family: 'Mallanna' sans-serif;
-  max-width: 60px
 }
 
 h2 {
@@ -74,7 +73,7 @@ font-family: 'Mallanna', sans-serif;
 }
 
 body {
-  font-size: 20px;
+  font-size: 18px;
   font-family: 'Mallanna', sans-serif;
 }
 
@@ -82,5 +81,6 @@ body {
 tbody tr td:nth-child(1) {
   font-size: 44px !important;
   color: #00695C;
+   max-width: 30px
 }
 
