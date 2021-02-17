@@ -86,7 +86,3 @@ tbody tr td:nth-child(1) {
 tbody tr td:nth-child(2) {
   max-width: 50% !important;
 }
-
-tbody tr td:nth-child(n) {
-font-family: 'Mallanna', sans-serif;
-}
