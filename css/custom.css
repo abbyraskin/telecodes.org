@@ -84,7 +84,7 @@ tbody tr td:nth-child(1) {
 }
 
 tbody tr td:nth-child(4) {
-  max-width: 30px !important;
+  max-width: 25% !important;
 }
 
 tbody tr td:nth-child(n) {
