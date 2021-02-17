@@ -83,6 +83,11 @@ tbody tr td:nth-child(1) {
   color: #00695C;
 }
 
+
+tbody tr td:nth-child(1) {
+  font-size: 24px !important;
+}
+
 tbody tr td:nth-child(4) {
   max-width: 25%;
 }
