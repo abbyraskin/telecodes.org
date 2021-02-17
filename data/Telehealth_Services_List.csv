@@ -1,20 +1,20 @@
-Billing code,Covered telehealth services,Coverage status,Telephone waiver in effect?
+Billing code,Covered telehealth services,Coverage status,Telephone OK during PHE ☎
 77427,Radiation treatment management services (5 treatments),Extended: until end of 2021 or later,
 90785,Crisis intervention and interactive complexity (list separately),Permanent,
-90791,Psychiatric diagnostic evaluation,Permanent,📞
-90792,Psychiatric diagnostic evaluation with medical services,Permanent,📞
-90832,"Psychotherapy with patient, 30 minutes",Permanent,📞
-90833,"Psychotherapy with patient, e/m, 30 minutes",Permanent,📞
-90834,"Psychotherapy with patient, 45 minutes",Permanent,📞
-90836,"Psychotherapy with patient, e/m, 45 minutes",Permanent,📞
-90837,"Psychotherapy with patient, 60 minutes",Permanent,📞
-90838,"Psychotherapy with patient, e/m, 60 minutes",Permanent,📞
-90839,"Psychotherapy for crisis, initial 60 minutes",Permanent,📞
-90840,"Psychotherapy for crisis, each additional 30 minutes",Permanent,📞
-90845,Psychoanalysis,Permanent,📞
-90846,"Family psychotherapy without patient, 50 minutes",Permanent,📞
-90847,"Family psychotherapy with patient, 50 minutes",Permanent,📞
-90853,Group psychotherapy,Permanent,📞
+90791,Psychiatric diagnostic evaluation,Permanent,☎
+90792,Psychiatric diagnostic evaluation with medical services,Permanent,☎
+90832,"Psychotherapy with patient, 30 minutes",Permanent,☎
+90833,"Psychotherapy with patient, e/m, 30 minutes",Permanent,☎
+90834,"Psychotherapy with patient, 45 minutes",Permanent,☎
+90836,"Psychotherapy with patient, e/m, 45 minutes",Permanent,☎
+90837,"Psychotherapy with patient, 60 minutes",Permanent,☎
+90838,"Psychotherapy with patient, e/m, 60 minutes",Permanent,☎
+90839,"Psychotherapy for crisis, initial 60 minutes",Permanent,☎
+90840,"Psychotherapy for crisis, each additional 30 minutes",Permanent,☎
+90845,Psychoanalysis,Permanent,☎
+90846,"Family psychotherapy without patient, 50 minutes",Permanent,☎
+90847,"Family psychotherapy with patient, 50 minutes",Permanent,☎
+90853,Group psychotherapy,Permanent,☎
 90951,"End-stage renal disease related (ESRD), younger than two years old",Permanent,
 90952,"End-stage renal disease related (ESRD), 2-3 visits per month, younger than 2 years old",Permanent,
 90953,"End-stage renal disease related (ESRD), 1 visit per month, younger than 2 years old",Extended: until end of 2021 or later,
@@ -40,15 +40,15 @@ Billing code,Covered telehealth services,Coverage status,Telephone waiver in eff
 92012,"Eye exam established patient, intermediate, established patient",Temporary: until end of PHE,
 92014,"Eye exam established patient, comprehensive, established patient,
 1 or more visits",Temporary: until end of PHE,
-92507,"Speech-language treatment, individual",Extended: until end of 2021 or later,📞
-92508,"Speech-language treatment, group",Temporary: until end of PHE,📞
-92521,"Speech-language treatment; evaluation of speech fluency (eg, stuttering, cluttering)",Extended: until end of 2021 or later,📞
+92507,"Speech-language treatment, individual",Extended: until end of 2021 or later,☎
+92508,"Speech-language treatment, group",Temporary: until end of PHE,☎
+92521,"Speech-language treatment; evaluation of speech fluency (eg, stuttering, cluttering)",Extended: until end of 2021 or later,☎
 92522,"Speech-language treatement; evaluation of speech sound production (e.g., articulation, phonological process,
-apraxia, dysarthria)",Extended: until end of 2021 or later,📞
+apraxia, dysarthria)",Extended: until end of 2021 or later,☎
 92523,"Speech-language treatment; evaluation of speech sound production (eg, articulation, phonological process, apraxia,
 dysarthria); with evaluation of language comprehension and expression (eg, receptive
-and expressive language)",Extended: until end of 2021 or later,📞
-92524,Speech-language services; behavioral and qualitative analysis of voice and resonance,Extended: until end of 2021 or later,📞
+and expressive language)",Extended: until end of 2021 or later,☎
+92524,Speech-language services; behavioral and qualitative analysis of voice and resonance,Extended: until end of 2021 or later,☎
 92601,"Cochlear implant, patient younger than 7 years of age",Temporary: until end of PHE,
 92602,"Reprogram cochlear implant, patient younger than 7 years of age",Temporary: until end of PHE,
 92603,"Program cochlear implant, 7+ years old",Temporary: until end of PHE,
@@ -70,27 +70,27 @@ home, domiciliary or rest home (eg, assisted living)",Temporary: until end of PH
 96112,"Developmental and behavioral screening, first hour",Temporary: until end of PHE,
 96113,"Developmental and behavioral screening, each additional 30 minutes (list
 separately)",Temporary: until end of PHE,
-96116,"Neurobehavioral status examination, first hour",Permanent,📞
-96121,"Neurobehavioral status examination, each additional hour (list separately)",Permanent,📞
-96127,Developmental/behavioral screening and testing,Temporary: until end of PHE,📞
-96130,"Psychological testing evaluation, first hour",Extended: until end of 2021 or later,📞
-96131,"Psychological testing evaluation, each additional hour (list separately)",Extended: until end of 2021 or later,📞
-96132,"Neuropsychological testing evaluation, first hour",Extended: until end of 2021 or later,📞
-96133,"Neuropsychological testing evaluation, each additional hour (list separately)",Extended: until end of 2021 or later,📞
-96136,"Psychological or neuropsychological test by physician, first 30 minutes",Extended: until end of 2021 or later,📞
-96137,"Psychological or neuropsychological test by physician, each additional 30 minutes (list separately)",Extended: until end of 2021 or later,📞
-96138,"Psychological or neuropsychological test by tech, first 30 minutes",Extended: until end of 2021 or later,📞
-96139,"Psychological or neuropsychological test by tech, each additional 30 minutes (list separately)",Extended: until end of 2021 or later,📞
-96156,Health behavior assessment and intervention,Permanent,📞
-96158,"Health behavior assessment and intervention, first 30 minutes",Temporary: until end of PHE,📞
-96159,"Health behavior assessment and intervention, each additional 15 minutes",Permanent,📞
-96160,Health behavior assessment and intervention,Permanent,📞
-96161,Health behavior assessment and intervention,Permanent,📞
-96164,"Health behavior assessment and intervention, first 30 minutes",Permanent,📞
-96165,"Health behavior assessment and intervention, each additional ",Permanent,📞
-96167,"Health behavior assessment and intervention, first 30 minutes",Permanent,📞
-96168,"Health behavior assessment and intervention, each additional",Permanent,📞
-96168,"Health behavior assessment and intervention, each additional",Permanent,📞
+96116,"Neurobehavioral status examination, first hour",Permanent,☎
+96121,"Neurobehavioral status examination, each additional hour (list separately)",Permanent,☎
+96127,Developmental/behavioral screening and testing,Temporary: until end of PHE,☎
+96130,"Psychological testing evaluation, first hour",Extended: until end of 2021 or later,☎
+96131,"Psychological testing evaluation, each additional hour (list separately)",Extended: until end of 2021 or later,☎
+96132,"Neuropsychological testing evaluation, first hour",Extended: until end of 2021 or later,☎
+96133,"Neuropsychological testing evaluation, each additional hour (list separately)",Extended: until end of 2021 or later,☎
+96136,"Psychological or neuropsychological test by physician, first 30 minutes",Extended: until end of 2021 or later,☎
+96137,"Psychological or neuropsychological test by physician, each additional 30 minutes (list separately)",Extended: until end of 2021 or later,☎
+96138,"Psychological or neuropsychological test by tech, first 30 minutes",Extended: until end of 2021 or later,☎
+96139,"Psychological or neuropsychological test by tech, each additional 30 minutes (list separately)",Extended: until end of 2021 or later,☎
+96156,Health behavior assessment and intervention,Permanent,☎
+96158,"Health behavior assessment and intervention, first 30 minutes",Temporary: until end of PHE,☎
+96159,"Health behavior assessment and intervention, each additional 15 minutes",Permanent,☎
+96160,Health behavior assessment and intervention,Permanent,☎
+96161,Health behavior assessment and intervention,Permanent,☎
+96164,"Health behavior assessment and intervention, first 30 minutes",Permanent,☎
+96165,"Health behavior assessment and intervention, each additional ",Permanent,☎
+96167,"Health behavior assessment and intervention, first 30 minutes",Permanent,☎
+96168,"Health behavior assessment and intervention, each additional",Permanent,☎
+96168,"Health behavior assessment and intervention, each additional",Permanent,☎
 97110,Therapeutic exercises,Extended: until end of 2021 or later,
 97112,Neuromuscular reeducation,Temporary: until end of PHE,
 97116,Gait training therapy,Temporary: until end of PHE,
@@ -112,15 +112,15 @@ separately)",Temporary: until end of PHE,
 97167,"Occupational therapy evaluation, high complexity, 60 minutes",Extended: until end of 2021 or later,
 97168,"Occupational therapy re-evaluation, established plan of care",Extended: until end of 2021 or later,
 97530,Therapeutic activities,Temporary: until end of PHE,
-97535,Self care management training,Extended: until end of 2021 or later,📞
+97535,Self care management training,Extended: until end of 2021 or later,☎
 97542,Wheelchair management training,Temporary: until end of PHE,
 97750,Physical performance test,Extended: until end of 2021 or later,
 97755,Assistive technology assessment,Extended: until end of 2021 or later,
 97760,"Orthotic management and training, 1st encounter",Extended: until end of 2021 or later,
 97761,"Orthotic management and training, 1st encounter",Extended: until end of 2021 or later,
-97802,"Medical nutrition therapy, initial assessment, individual",Permanent,📞
-97803,"Medical nutrition therapy, subsequent assessment, individual",Permanent,📞
-97804,Medical nutrition therapy in a group setting,Permanent,📞
+97802,"Medical nutrition therapy, initial assessment, individual",Permanent,☎
+97803,"Medical nutrition therapy, subsequent assessment, individual",Permanent,☎
+97804,Medical nutrition therapy in a group setting,Permanent,☎
 99201,New patient office or other outpatient e/m services,Permanent,
 99202,New patient office or other outpatient e/m services,Permanent,
 99203,New patient office or other outpatient e/m services,Permanent,
@@ -183,15 +183,15 @@ separately)",Temporary: until end of PHE,
 99348,Established patient home services,Permanent,
 99349,Established patient home services,Extended: until end of 2021 or later,
 99350,Established patient home services,Extended: until end of 2021 or later,
-99354,Prolonged e/m psychotherapy service(s) in outpatient setting,Permanent,📞
-99355,Prolonged e/m psychotherapy service in outpatient setting,Permanent,📞
-99356,Prolonged e/m service in inpatient setting,Permanent,📞
-99357,Prolonged e/m service in inpatient setting,Permanent,📞
-99406,"Smoking and tobacco use cessation counseling visit, 3-10 minutes",Permanent,📞
-99407,"Smoking and tobacco use cessation counseling visit, greater than 10 minutes",Permanent,📞
-99441,"Phone e/m, 5-10 minutes",Temporary: until end of PHE,📞
-99442,"Phone e/m, 11-20 minutes",Temporary: until end of PHE,📞
-99443,"Phone e/m, 21-30 minutes",Temporary: until end of PHE,📞
+99354,Prolonged e/m psychotherapy service(s) in outpatient setting,Permanent,☎
+99355,Prolonged e/m psychotherapy service in outpatient setting,Permanent,☎
+99356,Prolonged e/m service in inpatient setting,Permanent,☎
+99357,Prolonged e/m service in inpatient setting,Permanent,☎
+99406,"Smoking and tobacco use cessation counseling visit, 3-10 minutes",Permanent,☎
+99407,"Smoking and tobacco use cessation counseling visit, greater than 10 minutes",Permanent,☎
+99441,"Phone e/m, 5-10 minutes",Temporary: until end of PHE,☎
+99442,"Phone e/m, 11-20 minutes",Temporary: until end of PHE,☎
+99443,"Phone e/m, 21-30 minutes",Temporary: until end of PHE,☎
 99468,"Inpatient neonatal critical care, initial visit",Temporary: until end of PHE,
 99469,"Inpatient neonatal critical care, subsequent visit",Extended: until end of 2021 or later,
 99471,"Pediatric critical care, initial visit",Temporary: until end of PHE,
@@ -206,46 +206,46 @@ separately)",Temporary: until end of PHE,
 99483,Cognitive assessment and care plan services,Permanent,
 99495,Transitional care management services,Permanent,
 99496,Transitional care management services,Permanent,
-99497,Advanced care planning,Permanent,📞
-99498,Advanced care planning,Permanent,📞
+99497,Advanced care planning,Permanent,☎
+99498,Advanced care planning,Permanent,☎
 0373T,Adaptive behavior assessments and treatment,Temporary: until end of PHE,
 0362T,Adaptive behavior assessments and treatment,Temporary: until end of PHE,
-G0108,Diabetes outpatient self-management training services,Permanent,📞
-G0109,Diabetes outpatient self-management training services,Permanent,📞
-G0270,Medical nutrition therapy,Permanent,📞
-G0296,Counseling visit to discuss need for lung cancer screening,Permanent,📞
-G0396,Alcohol and/or substance (other than tobacco) misuse structured assessment,Permanent,📞
-G0397,Alcohol and/or substance (other than tobacco) misuse structured assessment,Permanent,📞
-G0406,"Follow-up inpatient consultation, limited",Permanent,📞
-G0407,"Follow-up inpatient consultation, intermediate",Permanent,📞
-G0408,"Follow-up inpatient consultation, complex",Permanent,📞
-G0420,Face-to-face educational services related to the care of chronic kidney disease,Permanent,📞
-G0421,Face-to-face educational services related to the care of chronic kidney disease,Permanent,📞
+G0108,Diabetes outpatient self-management training services,Permanent,☎
+G0109,Diabetes outpatient self-management training services,Permanent,☎
+G0270,Medical nutrition therapy,Permanent,☎
+G0296,Counseling visit to discuss need for lung cancer screening,Permanent,☎
+G0396,Alcohol and/or substance (other than tobacco) misuse structured assessment,Permanent,☎
+G0397,Alcohol and/or substance (other than tobacco) misuse structured assessment,Permanent,☎
+G0406,"Follow-up inpatient consultation, limited",Permanent,☎
+G0407,"Follow-up inpatient consultation, intermediate",Permanent,☎
+G0408,"Follow-up inpatient consultation, complex",Permanent,☎
+G0420,Face-to-face educational services related to the care of chronic kidney disease,Permanent,☎
+G0421,Face-to-face educational services related to the care of chronic kidney disease,Permanent,☎
 G0422,Intensive cardiac rehabilitation,Temporary: until end of PHE,
 G0423,Intensive cardiac rehabilitation,Temporary: until end of PHE,
 G0424,"Pulmonary rehabilitation, including exercise",Temporary: until end of PHE,
-G0425,Inpatient emergency department telehealth consult,Permanent,📞
-G0426,Inpatient emergency department telehealth consult,Permanent,📞
-G0427,Inpatient emergency department telehealth consult,Permanent,📞
-G0438,Annual wellness visit,Permanent,📞
-G0439,"Annual wellness visit, subsequent visit",Permanent,📞
-G0442,Annual alcohol misuse screening,Permanent,📞
-G0443,"Brief face-to-face behavioral counseling for alcohol misuse, 15 minutes",Permanent,📞
-G0444,"Annual depression screening, 15 minutes",Permanent,📞
-G0445,"High intensity behavioral counseling to prevent sexually transmitted infection, 30 minutes",Permanent,📞
-G0446,Intensive behavioral therapy for cardiovascular disease,Permanent,📞
-G0447,Behavioral counseling for obesity,Permanent,📞
-G0459,Behavioral counseling for obesity,Permanent,📞
-G0506,Comprehensive assessment of and care planning for patients requiring chronic care management services,Permanent,📞
+G0425,Inpatient emergency department telehealth consult,Permanent,☎
+G0426,Inpatient emergency department telehealth consult,Permanent,☎
+G0427,Inpatient emergency department telehealth consult,Permanent,☎
+G0438,Annual wellness visit,Permanent,☎
+G0439,"Annual wellness visit, subsequent visit",Permanent,☎
+G0442,Annual alcohol misuse screening,Permanent,☎
+G0443,"Brief face-to-face behavioral counseling for alcohol misuse, 15 minutes",Permanent,☎
+G0444,"Annual depression screening, 15 minutes",Permanent,☎
+G0445,"High intensity behavioral counseling to prevent sexually transmitted infection, 30 minutes",Permanent,☎
+G0446,Intensive behavioral therapy for cardiovascular disease,Permanent,☎
+G0447,Behavioral counseling for obesity,Permanent,☎
+G0459,Behavioral counseling for obesity,Permanent,☎
+G0506,Comprehensive assessment of and care planning for patients requiring chronic care management services,Permanent,☎
 G0508,"Critical care consult, 60 minutes",Permanent,
 G0509,"Critical care consult, 50 minutes",Permanent,
-G0513,"Prolonged preventive service(s), first 30 minutes",Permanent,📞
-G0514,"Prolonged preventive service(s), additional 30 minutes",Permanent,📞
-G2086,"Office-based treatment for opioid use disorder, 70 minutes",Permanent,📞
-G2087,"Office-based treatment for opioid use disorder, 60 minutes",Permanent,📞
-G2088,"Office-based treatment for opioid use disorder, additional 30 minutes",Permanent,📞
+G0513,"Prolonged preventive service(s), first 30 minutes",Permanent,☎
+G0514,"Prolonged preventive service(s), additional 30 minutes",Permanent,☎
+G2086,"Office-based treatment for opioid use disorder, 70 minutes",Permanent,☎
+G2087,"Office-based treatment for opioid use disorder, 60 minutes",Permanent,☎
+G2088,"Office-based treatment for opioid use disorder, additional 30 minutes",Permanent,☎
 G9685,Acute nursing facility care evaluation and management (e/m),Temporary: until end of PHE,
-G2211,Visit complexity inherent to certain evaluation and management (e/m) services,Permanent,📞
+G2211,Visit complexity inherent to certain evaluation and management (e/m) services,Permanent,☎
 G2212,Prolonged office or other outpatient evaluation and management service(s),Permanent,
 Q3014,Originating site facility fee,,
 G2025,Telehealth distant site service furnished by a rural health clinic (RHC) or federally qualified health center (FQHC) only,Until Covid-19 PHE ends (statutory),(See code.)
