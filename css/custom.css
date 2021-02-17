@@ -83,8 +83,8 @@ tbody tr td:nth-child(1) {
   color: #00695C;
 }
 
-tbody tr td:nth-child(4) {
-  max-width: 25% !important;
+tbody tr td:nth-child(2) {
+  max-width: 50% !important;
 }
 
 tbody tr td:nth-child(n) {
