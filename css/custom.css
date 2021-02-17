@@ -87,7 +87,12 @@ tbody tr td:nth-child(1) {
   color: #00695C;
 }
 
+tbody tr td:nth-child(2) {
+  font-size: 44px !important;
+  color: #00695C;
+  max-width: 100px;
+}
+
 tbody tr td:nth-child(n) {
 font-family: 'Mallanna', sans-serif;
-max-width: 100px;
 }
