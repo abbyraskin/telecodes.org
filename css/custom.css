@@ -1,16 +1,16 @@
 /* Custom styles */
 
 @import url('https://fonts.googleapis.com/css2?family=Mallanna&display=swap');
-@import url('http://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 .navbar {
   margin: 0;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .navbar-header a {
   color: #00695C;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 div.splash {
@@ -19,19 +19,19 @@ div.splash {
   margin-bottom: 20px;
   padding: 40px 0;
   font-size: 22px;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 div.splash a {
   color: #fff;
   text-decoration: underline;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 22px;
 }
 
 p.lead {
   font-weight: 700;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 @media (min-width: 768px) {
