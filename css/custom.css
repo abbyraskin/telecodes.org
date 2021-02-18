@@ -81,19 +81,25 @@ body {
 tbody tr td:nth-child(1) {
   font-size: 44px !important;
   color: #00695C;
+    vertical-align: middle;
 }
 
 
 tbody tr td:nth-child(2) {
-  font-size: 24px !important;
-}
+  font-size: 22px !important;
+    vertical-align: middle;
+    width: 50%
 
-tbody tr td:nth-child(4) {
-  max-width: 25%;
 }
 
 tbody tr td:nth-child(3) {
-  max-width: 25%;
+  font-size: 22px !important;
+  width: 20%;
+    vertical-align: middle;
 }
 
-
+tbody tr td:nth-child(4) {
+  font-size: 30px !important;
+  width: 20%;
+  vertical-align: middle;
+}
